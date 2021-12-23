@@ -3,9 +3,6 @@
 
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=adhiariyadi&exclude_repo=cem_clipnet&layout=compact&theme=radical)
-![alt text](https://github-readme-stats.vercel.app/api?username=adhiariyadi&show_icons=true&theme=radical)
-
-
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281456140392)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/darklocuts)
