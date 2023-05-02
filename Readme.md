@@ -8,4 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnoorhidayatulloh@gmail.com.com?subject=github_message)
 [![Instagram](https://img.shields.io/badge/Instagram-CA377D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nr_hda0?r=nametag)
 
+[![An image of @darklocuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darklocuts)](https://holopin.io/@darklocuts)
+
 ![](https://komarev.com/ghpvc/?username=DarkLocuts&color=green&label=Views)
