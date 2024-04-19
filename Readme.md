@@ -7,8 +7,8 @@
    I started studying design from an early age, started doing business when I was still a student, 
    and spent my teenage years learning programming...
    IT Consultant, Programmer, UI/UX Designer This is a field I like and am passionate about...
-  |  |                                                     |                  |                    |                    | |
-|   |             |                    |                          |   |  |                                                 |
+  |  |                                                     |                  |                | |
+|   |             |                    |                          |   |  |                          |
 </pre>
 
 ========================================= <br>
