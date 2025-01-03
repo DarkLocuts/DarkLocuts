@@ -21,6 +21,4 @@
 <br>
 ========================================= <br>
 
-[![An image of @darklocuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darklocuts)](https://holopin.io/@darklocuts)
-
 ![](https://komarev.com/ghpvc/?username=DarkLocuts&color=green&label=Views)
