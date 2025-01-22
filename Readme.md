@@ -21,4 +21,11 @@
 <br>
 ========================================= <br>
 
+<pre>
+==========\   Founder Of:   /==========
+========    <a href="https://sejedigital.com">sejedigital.com</a>    ========
+========       <a href="https://yukder.com">yukder.com</a>      ========
+=======================================
+</pre>
+
 ![](https://komarev.com/ghpvc/?username=DarkLocuts&color=green&label=Views)
